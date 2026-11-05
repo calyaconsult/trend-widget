@@ -32,7 +32,7 @@ A small React dashboard widget that shows keyword search trends as cards. Each c
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/calyaconsult/trend-widget.git
 cd <your-repo>
 npm install
 npm run dev
